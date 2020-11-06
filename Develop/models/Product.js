@@ -11,17 +11,17 @@ Product.init(
   {
     // define columns
     id:{
-      type:DataTypes.INTEGER,
+      type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
       autoIncrement: true
     },
-    
+
     product_name:{
       type: DataTypes.STRING,
       allowNull: false
     },
-    
+
     price:{
       type: DataTypes.DECIMAL,
 
@@ -29,7 +29,7 @@ Product.init(
           isDecimal: true
       }
     },
-    
+
     stock:{
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -44,10 +44,11 @@ Product.init(
       type: DataTypes.INTEGER,
 
       references:{
-      model: 'category',
-      key: 'id'
+        model: 'category',
+        key: 'id'
       }
     },
+
   },
   {
     sequelize,
