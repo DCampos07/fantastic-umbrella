@@ -1,7 +1,7 @@
 {
-  "name": "fantastic-umbrella",
+  "name": "online-store",
   "version": "1.0.0",
-  "description": "",
+  "description": "Back end project for an online store",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,22 +11,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DCampos07/fantastic-umbrella.git"
+    "url": "git+https://github.com/DCampos07/online-store.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Damaris Campos",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DCampos07/fantastic-umbrella/issues"
+    "url": "https://github.com/DCampos07/online-store/issues"
   },
-  "homepage": "https://github.com/DCampos07/fantastic-umbrella#readme",
+  "homepage": "https://github.com/DCampos07/online-store#readme",
   "dependencies": {
-    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
-    "eslint": "^7.12.1",
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
-    "nodemon": "^2.0.6",
     "sequelize": "^6.3.5"
-  }
+},
+"devDependencies": {
+    "eslint": "^7.12.1",
+    "nodemon": "^2.0.6"
+}
 }
