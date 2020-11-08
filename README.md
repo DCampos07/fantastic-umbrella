@@ -56,7 +56,13 @@ Run the following commands:\
 
     
 <h2 id= "tests">Tests</h2>
+![full video of the Categories file/model](assets/category_post_put_delete?raw=true "Demo of the Application")\
+(Google Drive) [VIEW](https://drive.google.com/file/d/1z91lsY29yUPB8ojs5CFx9DRVzbEC33xv/view?usp=sharing)
+
+
 Categories Model Full Demo Video: 
-Products Model Full Demo Video: https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view
-Tags Model Full Demo Video: https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view
+`
+Products Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view)
+`
+Tags Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view)
 
