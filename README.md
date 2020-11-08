@@ -22,25 +22,28 @@ Back end for an e-commerce site by using Express.js API and configuring it to us
 
 <h2 id= "installation">Installation</h2>
 
-The following dependencies are required in order to run this app.
-`npm install mysql2`\
+The following dependencies are required in order to run this app.\
+ `npm install mysql2`\
 `npm install sequelize`\
 `npm install dotenv`
     
 <h2 id= "technology">Technology Stack</h2>
+
  Express.Js, MySql2, Sequelize, dotent, JavaScript, GIT, GitHub.
   
 <h2 id= "usage">Usage</h2>
-In order to run this application you would need to install MySQL in your environment.\
-Then, from the project root folder enter the sql shell and run the following command:\
-`source db/schema.sql`\
-Exit the sql shell and return to the command line still within your root project folder.\
-Run the following commands:\
-`npm run seed`\
-`npm start`
+
+ In order to run this application you would need to install MySQL in your environment. \
+ Then, from the project root folder enter the sql shell and run the following command: \
+ `source db/schema.sql`\
+ Exit the sql shell and return to the command line still within your root project folder. \
+ Run the following commands:\
+ `npm run seed`\
+ `npm start`
 
   
 <h2 id= "demo">Demo</h2>
+
 <img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/get%20all.gif" alt="gif video of app">
 <img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/categories_post_put_delete.gif" alt="gif video of categories model">
 <img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/products_post_put_delete.gif" alt="gif video of products model">
@@ -48,6 +51,7 @@ Run the following commands:\
 
 
 <h2 id= "contact">Contact</h2>
+
 <li>Name: Damaris Campos</li> 
 <li>Github: https://github.com/DCampos07</li> 
 <li>Portfolio: DCampos07.github.io</li>
@@ -56,7 +60,7 @@ Run the following commands:\
 
     
 <h2 id= "tests">Tests</h2>
-<li>![Demo GIF of the Application](media/GET_ALL_cat_prod_tag.gif?raw=true "Demo of the Application")\
-Please use the following link to view (Google Drive) the GET ALL ROUTES application demo video: [VIEW](https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
+
+<li>Please use the following link to view (Google Drive) the GET ALL ROUTES application demo video: ![VIEW](https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
 
 
