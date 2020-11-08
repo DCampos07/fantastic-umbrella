@@ -21,7 +21,7 @@ DCampos07
 Back end for an e-commerce site by using Express.js API and configuring it to use Sequelize to interact with a MySQL database.
 
 <h2 id= "installation">Installation</h2>
-`
+
 The following dependencies are required in order to run this app.
 `npm install mysql2`\
 `npm install sequelize`\
@@ -41,10 +41,10 @@ Run the following commands:\
 
   
 <h2 id= "demo">Demo</h2>
-<img src="" alt="gif video of app">
-<img src="" alt="gif video of categories model">
-<img src="" alt="gif video of products model">
-<img src="" alt="gif video of tags model">
+<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/get%20all.gif" alt="gif video of app">
+<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/categories_post_put_delete.gif" alt="gif video of categories model">
+<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/products_post_put_delete.gif" alt="gif video of products model">
+<img src="https://github.com/DCampos07/online-store/blob/main/Develop/Assets/tags_post_put_delete.gif" alt="gif video of tags model">
 
 
 <h2 id= "contact">Contact</h2>
@@ -56,8 +56,7 @@ Run the following commands:\
 
     
 <h2 id= "tests">Tests</h2>
-<li>Command Line and _Get All_ Full Demo Video:![VIEW](https://github.com/DCampos07/online-store/blob/main/Develop/Assets/get%20all.gif)</li>
-<li>Categories Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1cBIGWne8g1QWaX1mVS8WqEqA_SWXieGk/view?usp=sharing)</li>
-<li>Products Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1l3yYm_8WCwbPnv-lOgzbr1igZPMELxuN/view?usp=sharing)</li>
-<li>Tags Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view?usp=sharing)</li>
+<li>![Demo GIF of the Application](media/GET_ALL_cat_prod_tag.gif?raw=true "Demo of the Application")\
+Please use the following link to view (Google Drive) the GET ALL ROUTES application demo video: [VIEW](https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
+
 
