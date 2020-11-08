@@ -56,8 +56,8 @@ Run the following commands:\
 
     
 <h2 id= "tests">Tests</h2>
-<li>Command Line and Get All Full Demo Video: [VIEW](https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
-<li><li>Categories Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1cBIGWne8g1QWaX1mVS8WqEqA_SWXieGk/view?usp=sharing)</li>
+<li>Command Line and _Get All_ Full Demo Video:![VIEW](https://github.com/DCampos07/online-store/blob/main/Develop/Assets/get%20all.gif)</li>
+<li>Categories Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1cBIGWne8g1QWaX1mVS8WqEqA_SWXieGk/view?usp=sharing)</li>
 <li>Products Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1l3yYm_8WCwbPnv-lOgzbr1igZPMELxuN/view?usp=sharing)</li>
 <li>Tags Model Full Demo Video: [VIEW](https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view?usp=sharing)</li>
 
