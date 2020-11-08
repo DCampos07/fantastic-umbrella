@@ -13,7 +13,7 @@ DCampos07
 <li><a href="#installation">Installation</a></li> 
 <li><a href="#tech">Technology Stack</a></li> 
 <li><a href="#usage">Usage</a></li> 
-<li><a href="#screenshots">Screenshots</a></li> 
+<li><a href="#demo">Demo</a></li> 
 <li><a href="#contact">Contact</a></li> 
 <li><a href="#tests">Tests</a></li> 
   
@@ -40,9 +40,11 @@ Run the following commands:\
 `npm start`
 
   
-<h2 id= "screenshots">Screenshots</h2>
-<img src="" alt="screenshot of app">
-<img src="" alt="screenshot of app">
+<h2 id= "demo">Demo</h2>
+<img src="" alt="gif video of app">
+<img src="" alt="gif video of categories model">
+<img src="" alt="gif video of products model">
+<img src="" alt="gif video of tags model">
 
 
 <h2 id= "contact">Contact</h2>
@@ -54,4 +56,7 @@ Run the following commands:\
 
     
 <h2 id= "tests">Tests</h2>
-Video Link: https://drive.google.com/file/d/1-Uy0jza8n8Ap5Jt92E1MldxPu2XrImpP/view
+Categories Model Full Demo Video: 
+Products Model Full Demo Video: https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view
+Tags Model Full Demo Video: https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view
+
