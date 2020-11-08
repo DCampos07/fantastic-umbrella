@@ -61,6 +61,9 @@ The following dependencies are required in order to run this app.\
     
 <h2 id= "tests">Tests</h2>
 
-<li>Please use the following link to view (Google Drive) the GET ALL ROUTES application demo video: ![VIEW](https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
+<li>Please use the following link to view the GET ALL ROUTES application demo video:(https://drive.google.com/file/d/1iFNDr1bIfXARgqqRH3AskacCdKPU81Iv/view?usp=sharing)</li>
+<li>Please use the following link to view the CATEGORIES Post, Put, and Delete application demo video:(https://drive.google.com/file/d/1cBIGWne8g1QWaX1mVS8WqEqA_SWXieGk/view?usp=sharing)</li>
+<li>Please use the following link to view the PRODUCTS Post, Put, and Delete application demo video:https://drive.google.com/file/d/1l3yYm_8WCwbPnv-lOgzbr1igZPMELxuN/view?usp=sharing)</li>
+<li>Please use the following link to view the TAGS Post, Put, and Delete application demo video:https://drive.google.com/file/d/1pN3ImPKRg86f5X2TQOKwARH2IJ0HSCB-/view?usp=sharing)</li>
 
 
